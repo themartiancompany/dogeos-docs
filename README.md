@@ -36,6 +36,8 @@ Here follows an index for the DogeOS documentation.
 
 - [Rationale](
     Rationale.md)
+- [Coding style manual](
+    https://github.com/themartiancompany/dogeos-coding-style)
 
 The documentation is released under the terms of the
 GNU Affero General Public License version 3.

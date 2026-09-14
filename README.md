@@ -36,6 +36,7 @@ Here follows an index for the DogeOS documentation.
 
 - [Rationale](
     Rationale.md)
+
 - [Coding style manual](
     https://github.com/themartiancompany/dogeos-coding-style)
 

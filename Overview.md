@@ -56,8 +56,9 @@ An operating system base is considered supported by DogeOS
 when the Ur builds on the platform.
 
 For an operating system base to be considered fully
-supported by DogeOS software, the Ur should build
-on the Gur binary packages for that platform.
+supported by DogeOS software, the Ur and the Ethereum
+stack should build on the Gur binary packages
+for that platform.
 
 Ur Gur support for a platform is obtained by appropriately
 configuring the Github or the Gitlab continuous integration (CI)

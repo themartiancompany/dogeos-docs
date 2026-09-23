@@ -65,3 +65,6 @@ configuring the Github or the Gitlab continuous integration (CI)
 configuration file in Ur
 [Universal Recipe](
   https://github.com/themartiancompany/ur-ur).
+
+Are considered core components of DogeOS all the ones
+necessary to access the Ur.

@@ -43,5 +43,8 @@ Here follows an index for the DogeOS documentation.
 - [Coding style manual](
     https://github.com/themartiancompany/dogeos-coding-style)
 
+- [FAQs](
+    FAQs.md)
+
 The documentation is released under the terms of the
 GNU Affero General Public License version 3.

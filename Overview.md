@@ -65,3 +65,16 @@ configuring the Github or the Gitlab continuous integration (CI)
 configuration file in Ur
 [Universal Recipe](
   https://github.com/themartiancompany/ur-ur).
+
+All components of DogeOS needed to access the Ur
+are core components.
+
+Not all core components are Ur dependencies;
+for example, since the Android Opensource
+Project (AOSP), mainly led and developed behind closed
+doors (cathedral model) by Google misses many
+programs, commands and utility which are considered
+basic in an operating system, all of the components
+The Martian Company provides in place
+of Google are core components of the DogeOS
+Android base.

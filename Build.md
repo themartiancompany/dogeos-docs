@@ -26,6 +26,10 @@ the DogeOS GNU/Linux base can be obtained by building the
 [`life`](
   https://github.com/themartiancompany/life)
 universal recipe and installing the corresponding package.
+Using the
+[Ur](
+  https://github.com/themartiancompany/ur)
+to build the image is recommended but not mandatory.
 
 The `life` package will install an ISO file at the
 `<usr>/share/life` location which can then be installed
@@ -41,6 +45,17 @@ The ISO image does contain a writable partition,
 so placing the ISO onto a writable storage drive
 you will be able to use the system normally without
 further operations.
+
+Internally, the build procedure uses The Martian Company's
+[Archiso](
+  https://github.com/themartiancompany/archiso)
+fork, which has support for extra bootloader configurations,
+setting up the writable area, encrypting both the root file
+system and the user writable area and producing an USB security
+dongle as a best effort mitigation for a simple class of
+[Evil Maid](
+  https://en.wikipedia.org/wiki/Evil_maid_attack)
+attacks.
 
 The documentation is released under the terms of the
 GNU Affero General Public License version 3.

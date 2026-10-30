@@ -37,6 +37,9 @@ Here follows an index for the DogeOS documentation.
 - [Overview](
     Overview.md),
 
+- [Build](
+    Build.md),
+
 - [Rationale](
     Rationale.md),
 

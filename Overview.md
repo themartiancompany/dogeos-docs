@@ -42,16 +42,23 @@ An operating system DogeOS is able to run on is called a *base*.
 
 As of 2026, DogeOS has three main working *bases*, which are
 
-- [GNU](
+- [GNU/Rinux](
     https://github.com/themartiancompany/rinux)
   (`gnu`),
 - [Android](
     https://github.com/themartiancompany/android)
   (`android`),
-- SteamOS,
+- [GNU Hurd](
+    https://github.com/themartiancompany/hurd-ur)
+  (`hurd`) and
+- [Mac OS 7](
+    https://github.com/themartiancompany/templeos-ur)
+  (`macos`),
 - [TempleOS](
-    https://github.com/themartiancompany/templeos-ur) and
-- Windows (`windows`).
+    https://github.com/themartiancompany/templeos-ur)
+  (`templeos`) and
+- Windows
+  (`windows`),
 
 GNU base packages are compatible with Arch Linux and
 SteamOS, Android base packages are compatible with

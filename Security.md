@@ -21,6 +21,17 @@
 
 ### Security
 
+### Source code immutability
+
+DogeOS source code is written on the
+[Ethereum Virtual Machine File System](
+  https://github.com/themartiancompany/evmfs),
+so until the blockchain networks on which
+the it has been written stay used, the
+operating system source code can be recovered
+at any time and the system seamlessly
+rebuilt from scratch.
+
 #### Root file system immutability and boot key
 
 DogeOS

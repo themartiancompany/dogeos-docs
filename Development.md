@@ -67,6 +67,8 @@ universal recipe build.
 
 #### Related resources
 
+ - [Ur documentation](
+     https://github.com/themartiancompany/ur-docs)
  - [Universal recipe](
      https://github.com/themartiancompany/ur-docs/tree/master/UniversalRecipes.md)
 

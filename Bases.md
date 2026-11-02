@@ -60,14 +60,13 @@ As of 2026, DogeOS has three main working *bases*, which are
 - [GNU Hurd](
     https://github.com/themartiancompany/hurd-ur)
   (`hurd`) and
-- [Mac OS 7](
-    https://github.com/themartiancompany/templeos-ur)
+- Mac OS 7
   (`macos`),
 - [TempleOS](
-    https://github.com/themartiancompany/templeos-ur)
+    https://github.com/themartiancompany/temple-os-ur)
   (`templeos`) and
 - Windows
-  (`windows`),
+  (`windows`).
 
 ##### Bases retro-compatibility
 

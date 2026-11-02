@@ -109,3 +109,6 @@ basic in an operating system, all of the components
 The Martian Company provides in place
 of Google are core components of the DogeOS
 Android base.
+
+The documentation is released under the terms of the
+GNU Affero General Public License version 3.

@@ -40,8 +40,14 @@ Here follows an index for the DogeOS documentation.
 - [Rationale](
     Rationale.md),
 
+- [Security](
+    Security.md)
+
 - [Build](
     Build.md),
+
+- [Development](
+    Development.md),
 
 - [Coding style manual](
     https://github.com/themartiancompany/dogeos-coding-style)

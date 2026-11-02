@@ -40,6 +40,10 @@ on the
 
 An operating system DogeOS is able to run on is called a *base*.
 
+For information about supported bases, see
+[bases](
+  Bases.md).
+
 As of 2026, DogeOS has three main working *bases*, which are
 
 - [GNU/Rinux](

@@ -65,5 +65,10 @@ Hurd port is at the stage of having the
   https://github.com/themartiancompany/hurd-ur)
 universal recipe build.
 
+#### Related resources
+
+ - [Universal recipe](
+     https://github.com/themartiancompany/ur-docs/tree/master/UniversalRecipes.md)
+
 The documentation is released under the terms of the
 GNU Affero General Public License version 3.

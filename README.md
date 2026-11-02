@@ -34,23 +34,27 @@
 
 Here follows an index for the DogeOS documentation.
 
+
 - [Overview](
     Overview.md),
 
-- [Rationale](
-    Rationale.md),
+   - [Rationale](
+       Rationale.md),
 
-- [Security](
-    Security.md)
+  - [Bases](
+      Bases.md),
 
-- [Build](
-    Build.md),
+  - [Security](
+      Security.md)
 
 - [Development](
     Development.md),
 
-- [Coding style manual](
-    https://github.com/themartiancompany/dogeos-coding-style)
+  - [Build](
+      Build.md),
+
+  - [Coding style manual](
+      https://github.com/themartiancompany/dogeos-coding-style)
 
 - [Data repository](
     https://github.com/themartiancompany/dogeos-data).

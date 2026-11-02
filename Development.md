@@ -32,10 +32,38 @@ attempts to run the
   https://github.com/themartiancompany/ur)
 on those systems.
 
-Try installing the
+The
+[TempleOS](
+  https://templeos.org) and
+the System7 port are at the stage
+that
 [TempleOS](
   https://github.com/themartiancompany/temple-os-ur)
-package.
+ur package has been published and its
+[Git\* Ur](
+  https://github.com/themartiancompany/gur))
+Github mirror is at
+[`temple-os-ur`](
+  https://github.com/themartiancompany/temple-os-ur);
+System 7 (`system7`) port is at the same
+level but for obvious reasons the universal recipes
+are only saved
+[on-chain](
+  https://github.com/themartiancompany/evmfs).
+
+For those systems no `ur` package has been ported
+as far as we know nor we know any
+Bash interpreter for either of those environments.
+Neverthless the resources needed to start
+a port have been
+[blockchain undeletable](
+  https://github.com/themartiancompany/evmfs-docs/tree/master/Undeletability.md).
+is either.
+
+Hurd port is at the stage of having the
+[`hurd`](
+  https://github.com/themartiancompany/hurd-ur)
+universal recipe build.
 
 The documentation is released under the terms of the
 GNU Affero General Public License version 3.

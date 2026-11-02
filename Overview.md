@@ -27,13 +27,37 @@ DogeOS itself.
 
 Regardless, DogeOS will manage it.
 
+DogeOS derives its
+[undeletability](
+  https://github.com/themartiancompany/evmfs-docs/tree/master/Undeletability.md)
+property from the fact the source code of the
+[Ur](
+  https://github.com/themartiancompany/ur)
+packages which is composed has been written
+on the
+[Ethereum Virtual Machine File System](
+  https://github.com/themartiancompany/evmfs).
+
 An operating system DogeOS is able to run on is called a *base*.
 
 As of 2026, DogeOS has three main working *bases*, which are
 
-- GNU, (`gnu`),
-- Android (`android`) and
+- [GNU](
+    https://github.com/themartiancompany/rinux)
+  (`gnu`),
+- [Android](
+    https://github.com/themartiancompany/android)
+  (`android`),
+- SteamOS,
+- [TempleOS](
+    https://github.com/themartiancompany/templeos-ur) and
 - Windows (`windows`).
+
+GNU base packages are compatible with Arch Linux and
+SteamOS, Android base packages are compatible with
+Termux, Windows base packages are compatible with
+[MSys2](
+  https://msys2.org), MinGW64.
 
 Release of MacOS (`macos`) base
 [Gur](
@@ -46,6 +70,13 @@ package already provides an easy way for developers
 to develop and run MacOS applications natively on other
 DogeOS bases with greater performance than on a MacOS
 base itself.
+
+A full GNU base (`hurd`) has been in the works for
+some time but it's low priority for now.
+Look at the
+[`hurd`](
+  https://github.com/themartiancompany/hurd-ur)
+Ur package if you're interested.
 
 The Martian Company's currenty policy before OS binary
 releases is MacOS user or developer interested in DogeOS
